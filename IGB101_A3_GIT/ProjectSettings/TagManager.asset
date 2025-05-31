@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - GameManager
+  - GameManagerMaxP
+  - Ground
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
