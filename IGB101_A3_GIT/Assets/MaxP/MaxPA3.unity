@@ -19041,7 +19041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05024fa89e138954aa5ac174269a03fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextLevel: 
+  nextLevel: RileyBeale/Scenes/SC_Assessment2
 --- !u!65 &1877287005
 BoxCollider:
   m_ObjectHideFlags: 0

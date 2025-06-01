@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Alex/Alex.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Jia A3/Scenes/IGB101_A3.unity
+    guid: b0c4b5b08a1dd624da9b47cbd611eccf
+  - enabled: 1
+    path: Assets/MaxP/MaxPA3.unity
+    guid: ffc8b41551e718d42af2fce5eb1e1da1
+  - enabled: 1
+    path: Assets/RileyBeale/Scenes/SC_Assessment2.unity
+    guid: 6325ee5b81377504c91ceaf32c15b5d6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
