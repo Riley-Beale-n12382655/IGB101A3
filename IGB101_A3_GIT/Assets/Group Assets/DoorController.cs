@@ -1,6 +1,5 @@
-using UnityEditor.SearchService;
+
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class DoorController : MonoBehaviour
 {
